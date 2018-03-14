@@ -1,0 +1,451 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="brambleliving.com" resolutions="1x" timestamp="1520746458076">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4264776774" ref="help:products:index:stockists:contact:about:ellipse-chair:leather-recliner:ellipse-dining:circle-stool:zen-coffee-table:rose-side-table:hex-coffee-table"/>
+    <file name="help.css" crc="535416618" ref="help"/>
+    <file name="products.css" crc="482179229" ref="products"/>
+    <file name="index.css" crc="389019393" ref="index"/>
+    <file name="stockists.css" crc="507070893" ref="stockists"/>
+    <file name="contact.css" crc="431863570" ref="contact"/>
+    <file name="about.css" crc="382673292" ref="about"/>
+    <file name="nomq_preview_master_a-master.css" crc="278284680" ref="help:ellipse-chair:leather-recliner:products:ellipse-dining:stockists:about:circle-stool:zen-coffee-table:index:rose-side-table:contact:hex-coffee-table"/>
+    <file name="nomq_help.css" crc="4211119655" ref="help"/>
+    <file name="ellipse-chair.css" crc="46168654" ref="ellipse-chair"/>
+    <file name="nomq_ellipse-chair.css" crc="4263093308" ref="ellipse-chair"/>
+    <file name="leather-recliner.css" crc="3861405945" ref="leather-recliner"/>
+    <file name="nomq_leather-recliner.css" crc="3760343464" ref="leather-recliner"/>
+    <file name="nomq_products.css" crc="4207137485" ref="products"/>
+    <file name="ellipse-dining.css" crc="208664134" ref="ellipse-dining"/>
+    <file name="nomq_ellipse-dining.css" crc="74921533" ref="ellipse-dining"/>
+    <file name="nomq_stockists.css" crc="213242624" ref="stockists"/>
+    <file name="nomq_about.css" crc="518719265" ref="about"/>
+    <file name="circle-stool.css" crc="75835056" ref="circle-stool"/>
+    <file name="nomq_circle-stool.css" crc="4289120802" ref="circle-stool"/>
+    <file name="zen-coffee-table.css" crc="3843493119" ref="zen-coffee-table"/>
+    <file name="nomq_zen-coffee-table.css" crc="366709457" ref="zen-coffee-table"/>
+    <file name="nomq_index.css" crc="3852842766" ref="index"/>
+    <file name="rose-side-table.css" crc="3947238225" ref="rose-side-table"/>
+    <file name="nomq_rose-side-table.css" crc="3770049622" ref="rose-side-table"/>
+    <file name="nomq_contact.css" crc="2452270" ref="contact"/>
+    <file name="hex-coffee-table.css" crc="4010014164" ref="hex-coffee-table"/>
+    <file name="nomq_hex-coffee-table.css" crc="3979432877" ref="hex-coffee-table"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="museutils.js" crc="3803043152" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="whatinput.js" crc="86476730" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="museconfig.js" crc="380897831" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:products:contact:about:rose-side-table"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="require.js" crc="4157109226" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="webpro.js" crc="242022427" ref="contact:help:index:products:stockists:about:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u2268.php" crc="470511790" ref="contact"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="help:index:products:stockists:contact:about:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="touchswipe.js" crc="4066113679" ref="ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+  </folder>
+  <folder name="images">
+    <file name="bl_logo.png" crc="129639226" seo="true" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining">
+      <caption webpage="rose-side-table" alt=""/>
+      <caption webpage="rose-side-table" alt=""/>
+      <caption webpage="rose-side-table" alt=""/>
+      <caption webpage="rose-side-table" alt=""/>
+      <caption webpage="rose-side-table" alt=""/>
+      <caption webpage="rose-side-table" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+      <caption webpage="hex-coffee-table" alt=""/>
+      <caption webpage="hex-coffee-table" alt=""/>
+      <caption webpage="hex-coffee-table" alt=""/>
+      <caption webpage="hex-coffee-table" alt=""/>
+      <caption webpage="hex-coffee-table" alt=""/>
+      <caption webpage="hex-coffee-table" alt=""/>
+      <caption webpage="zen-coffee-table" alt=""/>
+      <caption webpage="zen-coffee-table" alt=""/>
+      <caption webpage="zen-coffee-table" alt=""/>
+      <caption webpage="zen-coffee-table" alt=""/>
+      <caption webpage="zen-coffee-table" alt=""/>
+      <caption webpage="zen-coffee-table" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="leather-recliner" alt=""/>
+      <caption webpage="leather-recliner" alt=""/>
+      <caption webpage="leather-recliner" alt=""/>
+      <caption webpage="leather-recliner" alt=""/>
+      <caption webpage="leather-recliner" alt=""/>
+      <caption webpage="leather-recliner" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="stockists" alt=""/>
+      <caption webpage="stockists" alt=""/>
+      <caption webpage="stockists" alt=""/>
+      <caption webpage="stockists" alt=""/>
+      <caption webpage="stockists" alt=""/>
+      <caption webpage="stockists" alt=""/>
+      <caption webpage="stockists" alt=""/>
+      <caption webpage="stockists" alt=""/>
+      <caption webpage="ellipse-dining" alt=""/>
+      <caption webpage="ellipse-dining" alt=""/>
+      <caption webpage="ellipse-dining" alt=""/>
+      <caption webpage="ellipse-dining" alt=""/>
+      <caption webpage="ellipse-dining" alt=""/>
+      <caption webpage="ellipse-dining" alt=""/>
+      <caption webpage="product-detail" alt=""/>
+      <caption webpage="product-detail" alt=""/>
+      <caption webpage="circle-stool" alt=""/>
+      <caption webpage="circle-stool" alt=""/>
+      <caption webpage="circle-stool" alt=""/>
+      <caption webpage="circle-stool" alt=""/>
+      <caption webpage="circle-stool" alt=""/>
+      <caption webpage="circle-stool" alt=""/>
+    </file>
+    <file name="loft_2b_edit.jpg" crc="367747764" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chair_1b_edit.jpg" crc="336394084" ref="products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="sidetable_4a_edit.jpg" crc="4100180483" ref="index:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="sidetable_1b.jpg" crc="3819316111" ref="products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="loft_1b_edit.jpg" crc="93899146" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="diningtable_1c.jpg" crc="4278413757" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="loft_1d.jpg" crc="4031495485" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="wood.jpg" crc="357989174" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="chair_1a-crop-u3607.jpg" crc="203403250" seo="true" ref="ellipse-chair">
+      <caption webpage="product-detail" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:products:stockists:contact:about:help:ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="chair_1c-crop-u3727.jpg" crc="3873720229" seo="true" ref="ellipse-chair">
+      <caption webpage="product-detail" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1d-crop-u3774.jpg" crc="3904081856" seo="true" ref="ellipse-chair">
+      <caption webpage="product-detail" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1a-crop-u3598.jpg" crc="299407254" seo="true" ref="ellipse-chair">
+      <caption webpage="product-detail" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1c-crop-u3733.jpg" crc="398005133" seo="true" ref="ellipse-chair">
+      <caption webpage="product-detail" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1d120x91.jpg" crc="127550854" seo="true" ref="ellipse-chair">
+      <caption webpage="product-detail" alt=""/>
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="ellipse-chair:leather-recliner:zen-coffee-table:rose-side-table:hex-coffee-table:circle-stool:ellipse-dining"/>
+    <file name="chair_1c-u1692-fr.jpg" crc="107254815" ref="index"/>
+    <file name="chair_4_edit-u1710-fr.jpg" crc="4225612934" ref="index:products"/>
+    <file name="sidetable_4a_edit-u1713-fr.jpg" crc="421769799" ref="index:products"/>
+    <file name="sidetable_1b-u1716-fr.jpg" crc="3770966821" ref="index:products"/>
+    <file name="loft_2b_edit-u1274-fr.jpg" crc="4105832775" ref="index"/>
+    <file name="chair_1c-u1692-fr2.jpg" crc="68849488" ref="index"/>
+    <file name="loft_2b_edit-u1274-fr2.jpg" crc="3791977360" ref="index"/>
+    <file name="icons8-menu-100.png" crc="4203261399" ref="index:products:rose-side-table">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_4a_edit-u1713-fr2.jpg" crc="191261271" ref="index"/>
+    <file name="loft_1b_edit-u1796-fr.jpg" crc="3876965716" ref="index"/>
+    <file name="loft_2b_edit-u1274-fr3.jpg" crc="295192878" ref="index"/>
+    <file name="chair_1c-u1692-fr3.jpg" crc="82748891" ref="index"/>
+    <file name="chair_1b_edit-u2671-fr.jpg" crc="3766892643" ref="products"/>
+    <file name="stool_1a-u2679-fr.jpg" crc="3758454017" ref="products"/>
+    <file name="coffeetable_1a-u2724-fr.jpg" crc="3836406638" ref="products"/>
+    <file name="chair_4_edit-u2676-fr.jpg" crc="3880311658" ref="products"/>
+    <file name="chair_4_edit-u2676-fr2.jpg" crc="179635534" ref="products"/>
+    <file name="loft_1d-u2507-fr.jpg" crc="504156271" ref="contact"/>
+    <file name="wood-u3052-fr.jpg" crc="430511408" ref="about"/>
+    <file name="wood-u3052-fr2.jpg" crc="434660892" ref="about"/>
+    <file name="chair_1a-crop-u36072.jpg" crc="250965100" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1c-crop-u37272.jpg" crc="185269793" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1d-crop-u37742.jpg" crc="308331856" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1a-crop-u35982.jpg" crc="312288337" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1c-crop-u37332.jpg" crc="4067294896" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1d72x54.jpg" crc="474796112" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1a-crop-u36073.jpg" crc="208667591" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1c-crop-u37273.jpg" crc="37783619" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1d-crop-u37743.jpg" crc="4098129000" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1a-crop-u35983.jpg" crc="3860580714" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1c-crop-u37333.jpg" crc="4286661701" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_1d112x85.jpg" crc="4170785027" seo="true" ref="ellipse-chair">
+      <caption webpage="ellipse-chair" alt=""/>
+    </file>
+    <file name="chair_4_edit-crop-u26203.jpg" crc="386950170" seo="true" ref="leather-recliner">
+      <caption webpage="leather-recliner" alt=""/>
+    </file>
+    <file name="chair_4_edit-crop-u262032.jpg" crc="3952844827" seo="true" ref="leather-recliner">
+      <caption webpage="leather-recliner" alt=""/>
+    </file>
+    <file name="chair_4_edit-crop-u262033.jpg" crc="444817516" seo="true" ref="leather-recliner">
+      <caption webpage="leather-recliner" alt=""/>
+    </file>
+    <file name="coffeetable_3-crop-u26470.jpg" crc="4223990528" seo="true" ref="zen-coffee-table">
+      <caption webpage="zen-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_3-crop-u264702.jpg" crc="4230810445" seo="true" ref="zen-coffee-table">
+      <caption webpage="zen-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_3-crop-u264703.jpg" crc="514618805" seo="true" ref="zen-coffee-table">
+      <caption webpage="zen-coffee-table" alt=""/>
+    </file>
+    <file name="sidetable_1a-crop-u26817.jpg" crc="4091589408" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1b-crop-u26861.jpg" crc="3789194416" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1a-crop-u26831.jpg" crc="207770740" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1b-crop-u26873.jpg" crc="252282510" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1a-crop-u268172.jpg" crc="413696173" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1b-crop-u268612.jpg" crc="86430165" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1a-crop-u268312.jpg" crc="4243489120" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1b-crop-u268732.jpg" crc="270862636" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1a-crop-u268173.jpg" crc="3791000882" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1b-crop-u268613.jpg" crc="180349913" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1a-crop-u268313.jpg" crc="124732718" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="sidetable_1b-crop-u268733.jpg" crc="3783600084" seo="true" ref="rose-side-table">
+      <caption webpage="rose-side-table" alt=""/>
+    </file>
+    <file name="coffeetable_1a-crop-u28144.jpg" crc="166985719" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1b-crop-u28188.jpg" crc="278637643" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1c-crop-u28230.jpg" crc="83594362" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1a-crop-u28158.jpg" crc="3785243345" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1b-crop-u28200.jpg" crc="4178913533" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1c-crop-u28242.jpg" crc="292923205" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1a-crop-u281442.jpg" crc="245345816" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1b-crop-u281882.jpg" crc="4038274249" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1c-crop-u282302.jpg" crc="4032051512" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1a-crop-u281582.jpg" crc="4200530896" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1b-crop-u282002.jpg" crc="414493218" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1c-crop-u282422.jpg" crc="229012349" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1a-crop-u281443.jpg" crc="261271954" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1b-crop-u281883.jpg" crc="56422984" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1c-crop-u282303.jpg" crc="3830926923" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1a-crop-u281583.jpg" crc="139361372" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1b-crop-u282003.jpg" crc="4166623974" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="coffeetable_1c-crop-u282423.jpg" crc="536610815" seo="true" ref="hex-coffee-table">
+      <caption webpage="hex-coffee-table" alt=""/>
+    </file>
+    <file name="stool_1a-crop-u28344.jpg" crc="430257853" seo="true" ref="circle-stool">
+      <caption webpage="circle-stool" alt=""/>
+    </file>
+    <file name="stool_1a-crop-u283442.jpg" crc="3941998312" seo="true" ref="circle-stool">
+      <caption webpage="circle-stool" alt=""/>
+    </file>
+    <file name="stool_1a-crop-u283443.jpg" crc="4097536962" seo="true" ref="circle-stool">
+      <caption webpage="circle-stool" alt=""/>
+    </file>
+    <file name="diningtable_1a-crop-u28775.jpg" crc="239550724" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1b-crop-u29023.jpg" crc="4118809208" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1c-crop-u29065.jpg" crc="301012015" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1a-crop-u28786.jpg" crc="3855150067" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1b-crop-u29035.jpg" crc="3986681462" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1c-crop-u29077.jpg" crc="3990014454" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1a-crop-u287752.jpg" crc="4254289032" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1b-crop-u290232.jpg" crc="470943442" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1c-crop-u290652.jpg" crc="3895397576" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1a-crop-u287862.jpg" crc="495292014" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1b-crop-u290352.jpg" crc="450736242" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1c-crop-u290772.jpg" crc="223489254" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1a-crop-u287753.jpg" crc="65044935" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1b-crop-u290233.jpg" crc="4116720988" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1c-crop-u290653.jpg" crc="295005215" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1a-crop-u287863.jpg" crc="24590904" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1b-crop-u290353.jpg" crc="227981325" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+    <file name="diningtable_1c-crop-u290773.jpg" crc="71128084" seo="true" ref="ellipse-dining">
+      <caption webpage="ellipse-dining" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4015165431" seo="true" mt="1520745909070" redirect="true"/>
+  <file name="products.html" crc="276214259" seo="true" mt="1520746008779" redirect="true"/>
+  <file name="stockists.html" crc="4099492853" seo="true" mt="1520745909070" redirect="true"/>
+  <file name="contact.html" crc="26963747" seo="true" mt="1520745909070" redirect="true"/>
+  <file name="about.html" crc="423698662" seo="true" mt="1520745909070" redirect="true"/>
+  <file name="help.html" crc="230444431" seo="true" mt="1520745909070" redirect="true"/>
+  <file name="ellipse-chair.html" crc="348570019" seo="true" mt="1520745909070" redirect="true"/>
+  <file name="leather-recliner.html" crc="151927972" seo="true" mt="1520745909070" redirect="true"/>
+  <file name="zen-coffee-table.html" crc="118903863" seo="true" mt="1520745909070" redirect="true"/>
+  <file name="rose-side-table.html" crc="116955488" seo="true" mt="1520746390210" redirect="true"/>
+  <file name="hex-coffee-table.html" crc="284916736" seo="true" mt="1520746423516" redirect="true"/>
+  <file name="circle-stool.html" crc="3941880157" seo="true" mt="1520745909070" redirect="true"/>
+  <file name="ellipse-dining.html" crc="3760669467" seo="true" mt="1520746409972" redirect="true"/>
+</manifest>
